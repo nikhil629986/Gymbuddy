@@ -1,0 +1,20 @@
+#logo {
+  height: 50px;
+  width: 50px;
+  margin: 0;
+  padding: 0;
+}
+
+.brand-heading {
+  margin-top: 50px;
+}
+
+.intro-body {
+  margin-top: 50px;
+}
+.download-section {
+  color: #212529;
+  background-color: #000;
+  background-size: cover;
+}
+
